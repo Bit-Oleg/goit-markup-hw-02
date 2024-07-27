@@ -1,3 +1,71 @@
-bode {font-family: "Roboto", sans-serif;}
-ol,ul {list-style: none;}
-a {text-decoration: none;}
+body {
+  font-family: "Roboto", sans-serif;
+  background: #fff;
+}
+ol,
+ul {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+/*  #region header */
+.header {
+}
+
+.nav {
+}
+
+.logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.16667;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+.logo-span {
+  color: #2e2f42;
+}
+
+.menu {
+}
+
+.menu-item {
+}
+
+.menu-link {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.menu-link:hover,
+.menu-link:focus {
+  color: #404bbf;
+}
+
+.address {
+}
+
+.menu-address {
+}
+
+.menu-address-item {
+}
+
+.menu-address-link {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.menu-address-link:hover,
+.menu-address-link:focus {
+  color: #404bbf;
+}
+/*  #endregion header */
