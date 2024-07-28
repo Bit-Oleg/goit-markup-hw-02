@@ -1,6 +1,7 @@
 body {
   font-family: "Roboto", sans-serif;
   background-color: #fff;
+  color: #434455;
 }
 ol,
 ul {
@@ -20,9 +21,10 @@ a {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.16667;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  color: #4d5ae5;
 }
 .logo-span {
   color: #2e2f42;
@@ -48,6 +50,7 @@ a {
 }
 
 .address {
+  font-style: normal;
 }
 
 .menu-address {
@@ -91,6 +94,7 @@ a {
   letter-spacing: 0.04em;
   color: #fff;
   background-color: #4d5ae5;
+  cursor: pointer;
 }
 .hero-btn:hover,
 .hero-btn:focus {
@@ -103,7 +107,6 @@ a {
 .features {
 }
 .features-title {
-  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -137,8 +140,10 @@ a {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 .team-menu {
+  background: #fff;
 }
 .team-menu-item {
 }
@@ -170,14 +175,17 @@ a {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 .portfolio-menu {
 }
 .portfolio-menu-item {
+}
+.portfolio-menu-img {
 }
 .portfolio-menu-title {
   font-family: "Roboto", sans-serif;
@@ -204,7 +212,7 @@ a {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.16667;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
